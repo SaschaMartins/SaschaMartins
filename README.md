@@ -1,12 +1,14 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-# Welcome to my GitHub page!
+<h1>Welcome to my GitHub page!</h1>
   
 ---
-## <p>My name is Sascha, and I'm 27 years old. Currently, I'm focusing on learning HTML, CSS, and JavaScript..</p>
+  
+<h2>My name is Sascha, and I'm 27 years old. Currently, I'm focusing on learning HTML, CSS, and JavaScript..</h2>
   
 ---
-<br><br> Currently vibing to : 🎧  </strong></p>
+  
+<i><br><br> Currently vibing to : 🎧  </strong></p></i>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1147080650&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1300ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1147080650&redirect=true)
   
 <i>Let's connect and chat! Find me on the web...</i>
