@@ -7,8 +7,10 @@
 <h2>My name is Sascha, and I'm 27 years old. Currently, I'm focusing on learning HTML, CSS, and JavaScript..</h2>
   
 ---
-  
+
+
 <i><br><br> Currently vibing to : 🎧  </strong></p></i>
+![giphy](https://github.com/SaschaMartins/SaschaMartins/assets/133873834/95463767-4fb3-4862-b602-4c1204e791c9)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1147080650&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1300ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1147080650&redirect=true)
   
 <i>Let's connect and chat! Find me on the web...</i>
