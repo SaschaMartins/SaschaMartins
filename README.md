@@ -6,7 +6,7 @@
 ## <p>My name is Sascha, and I'm 27 years old. Currently, I'm focusing on learning HTML, CSS, and JavaScript..</p>
   
 --- 
-  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1147080650&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1300ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1147080650&redirect=true)
   
 <i>Let's connect and chat! Find me on the web...</i>
   
