@@ -3,11 +3,17 @@
 <h1>Welcome to my GitHub page!</h1>
   
 ---
-  
-<h2>My name is Sascha, and I'm 27 years old. Currently, I'm focusing on learning HTML, CSS, and JavaScript..</h2>
+<h1>Skills</h1>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<h1>IDE</h1>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
   
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaschaMartins&layout=compact)
 
 <i><br><br> Currently vibing to : 🎧  </strong></p></i>
 ![giphy](https://github.com/SaschaMartins/SaschaMartins/assets/133873834/95463767-4fb3-4862-b602-4c1204e791c9)
